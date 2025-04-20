@@ -4,8 +4,6 @@
 [![Streamlit](https://img.shields.io/badge/streamlit-1.0-orange)](https://streamlit.io/)  
 [![SQLite](https://img.shields.io/badge/sqlite-DB-lightgrey)](https://www.sqlite.org/)  
 [![Docker](https://img.shields.io/badge/docker-ready-blue)](https://www.docker.com/)  
-[![CI](https://img.shields.io/github/actions/workflow/status/ryan-tobin/auto-prices-trend/ci.yml?branch=main)](https://github.com/ryan-tobin/auto-prices-trend/actions)  
-[![Release](https://img.shields.io/github/v/release/ryan-tobin/auto-prices-trend)](https://github.com/ryan-tobin/auto-prices-trend/releases)
 
 ---
 
